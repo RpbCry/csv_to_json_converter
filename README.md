@@ -37,7 +37,7 @@ Running the script with this CSV file will create a new file named `data.json` w
     }
 ]
 
-## Acknowledgments
+Acknowledgments
 The script was created by Rpbcry as a helpful utility for converting CSV data to JSON format.
 If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 Happy coding!
