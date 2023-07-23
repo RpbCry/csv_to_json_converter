@@ -16,6 +16,11 @@ The input CSV file (`data.csv`) should have a header row that specifies the colu
 ## Output JSON Format
 The output JSON file (`data.json`) will contain an array of JSON objects, where each object represents a row from the input CSV file. The keys in the JSON objects will correspond to the column names from the CSV header row, and the values will be the data from the respective rows.
 
+## Acknowledgments
+The script was created by Rpbcry as a helpful utility for converting CSV data to JSON format.
+If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
+Happy coding!
+
 ## Example
 Suppose we have a CSV file named `data.csv` with the following contents:
 Name,Age,Email
@@ -37,10 +42,6 @@ Running the script with this CSV file will create a new file named `data.json` w
     }
 ]
 
-Acknowledgments
-The script was created by Rpbcry as a helpful utility for converting CSV data to JSON format.
-If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
-Happy coding!
 
 
 
